@@ -1,2 +1,2 @@
 # lapi21.github.io
-My personal website (in the making).
+My personal and academic website (in the making).
