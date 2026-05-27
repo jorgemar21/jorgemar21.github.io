@@ -1,10 +1,14 @@
 # My works
+Here are some pieces of work I have done so far, from the final thesis of each study programme I have completed to small course projects.
+
 ## Theses
-Master's thesis: [The Halperin conjecture](./thesis_master.pdf).
+Master's in mathematics: [The Halperin conjecture](./thesis_master.pdf).
 
-Bachelor's thesis, mathematics: [El teorema de inmersión de Hahn](./thesis_bachelor_math.pdf) (Hahn's embedding theorem).
+Bachelor's in mathematics: [El teorema de inmersión de Hahn](./thesis_bachelor_math.pdf) (Hahn's embedding theorem), in Spanish.
 
-Bachelor's thesis, physics: [Dynamics of surfaces out of equilibrium](./thesis_bachelor_physics.pdf).
+Bachelor's in physics: [Dynamics of surfaces out of equilibrium](./thesis_bachelor_physics.pdf).
 
 ## Projects
-Symplectic geometry
+Graph theory: Brief [review](./master/graphs_review) of the paper ``Brooks' theorem on powers of graphs'' by M. Bonamy and N. Bousquet (2014).
+
+Short [introduction to symplectic geometry](./master/intro_symplectic).
