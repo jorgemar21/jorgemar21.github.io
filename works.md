@@ -1,3 +1,6 @@
 # My works
-Master's thesis: [Master's Thesis](./thesis_master.pdf)
-Bachelor's thesis: [Bachelor's thesis](https://repositorio.unican.es/xmlui/bitstream/handle/10902/29851/MartinAlvarezJorge.pdf?sequence=1&isAllowed=y)
+Master's thesis: [The Halperin conjecture](./thesis_master.pdf).
+
+Bachelor's thesis, mathematics: [El teorema de inmersión de Hahn](./thesis_bachelor_math.pdf) (Hahn's embedding theorem).
+
+Bachelor's thesis, physics: [Dynamics of surfaces out of equilibrium](./thesis_bachelor_physics.pdf).
