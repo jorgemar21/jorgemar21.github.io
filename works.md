@@ -4,6 +4,8 @@ Here are some pieces of work I have done so far, from the final thesis of each s
 ## Theses
 Master's in mathematics: [The Halperin conjecture](./thesis_master.pdf).
 
+Master's in physics: [Dynamical dark energy models](./thesis_master_physics.pdf).
+
 Bachelor's in mathematics: [El teorema de inmersión de Hahn](./thesis_bachelor_math.pdf) (Hahn's embedding theorem), in Spanish.
 
 Bachelor's in physics: [Dynamics of surfaces out of equilibrium](./thesis_bachelor_physics.pdf).
