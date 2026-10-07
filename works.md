@@ -11,6 +11,8 @@ Bachelor's in mathematics: [El teorema de inmersión de Hahn](./thesis_bachelor_
 Bachelor's in physics: [Dynamics of surfaces out of equilibrium](./thesis_bachelor_physics.pdf).
 
 ## Projects
+Study of the possible resolutions of a league of 4 teams ([unfinished draft](./perso/league_4.pdf)).
+
 Graph theory: brief [review](./master/graph_review.pdf) of the paper ``Brooks' theorem on powers of graphs'' by M. Bonamy and N. Bousquet (2014).
 
 Short [introduction to symplectic geometry](./master/intro_symplectic.pdf).
